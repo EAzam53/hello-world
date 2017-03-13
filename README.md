@@ -1,2 +1,3 @@
 # hello-world
-This is a test repository.
+Reading through the help guide and following all the steps it tells me to do!
+This feels like it can get pretty complicated later on down the road...
